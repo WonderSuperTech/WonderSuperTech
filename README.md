@@ -7,7 +7,6 @@ Nothing but all the best!
 ### Social media: 📡
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wondersupertech)
-[![Skype Badge](https://img.shields.io/badge/Skype-purple?style=for-the-badge&logo=skype&logoColor=white)](https://web.skype.com/live:.cid.f30ef59bdde8f991)
 
 ## Languages and Tools 
 <div>
