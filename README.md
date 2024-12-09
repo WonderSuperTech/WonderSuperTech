@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=BlueBigThink&ranking=B,C&theme=algolia&SECRET&title=Followers,Commits,Repositories,Experience,MultipleLang,-Stars,-PullRequest,-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### Bio:    
-Have a Big Big Big Think!
+Nothing but all the best!
 
 ### Contact ME:
 ### Social media: 📡
@@ -65,7 +65,7 @@ Have a Big Big Big Think!
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=bluebigthink&mode=weekly&theme=whatsapp-dark2">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=wondersupertech&mode=weekly&theme=whatsapp-dark2">
 </p>
 
 
@@ -75,14 +75,14 @@ Have a Big Big Big Think!
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=BlueBigThink&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBigThink&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=WonderSuperTech&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WonderSuperTech&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
  
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlueBigThink&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=WonderSuperTech&style=for-the-badge&color=orange" alt=""/>
 </div>
 <!-- 
 <p align="center">
