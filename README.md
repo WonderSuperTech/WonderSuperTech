@@ -6,8 +6,8 @@ Nothing but all the best!
 ### Contact ME:
 ### Social media: 📡
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bluebigthink)
-[![Discord Badge](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XHyCxZw9)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wondersupertech)
+[![Skype Badge](https://img.shields.io/badge/Skype-purple?style=for-the-badge&logo=skype&logoColor=white)](https://web.skype.com/live:.cid.f30ef59bdde8f991)
 
 ## Languages and Tools 
 <div>
