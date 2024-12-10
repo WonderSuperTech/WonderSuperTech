@@ -64,6 +64,17 @@ Nothing but all the best!
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=WonderSuperTech&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+
+
+![YOLO](https://img.shields.io/badge/Y_O_L_O-Completed-brightgreen)
+![PULL](https://img.shields.io/badge/PULL-Success-1EBF8E)
+![Shartm](https://img.shields.io/badge/Shartm-Completed-blue)
+![Starstruck](https://img.shields.io/badge/Starstruck-Completed-yellow)
+
+
+
+
 <!-- 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
