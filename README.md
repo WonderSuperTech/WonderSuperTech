@@ -7,7 +7,7 @@ Nothing but all the best!
 ### Contact ME:
 ### Social media: 📡
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wondersupertech)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WonderSuperTech)
 
 ## Languages and Tools 
 <div>
@@ -51,7 +51,7 @@ Nothing but all the best!
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="HardHat" alt="HardHat" width="55" height="55"/>|
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=wondersupertech&mode=weekly&theme=whatsapp-dark2">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=WonderSuperTech&mode=weekly&theme=whatsapp-dark2">
 </p>
 
 ---
